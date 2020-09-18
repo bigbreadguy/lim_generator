@@ -29,3 +29,17 @@ class LimGenerator():
         
         plt.axis("off")
         plt.show()
+    
+    def collage(self):
+        fig, axs = plt.subplots(nrows=3, ncols=3)
+        for ax in axs.ravel():
+            canvas = []
+            for index, layer in enumerate(self.layers):
+                canvas.append(self.random_color(index, layer, True))
+            for layer in canvas:
+                ax.imshow(layer)
+            ax.axis("off")
+        
+        plt.title("Hayoung Lim", y=-0.05)
+        plt.axis("off")
+        plt.show()

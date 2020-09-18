@@ -17,4 +17,4 @@ for png in png_list:
   img_list.append(img)
 
 gen = LimGenerator(img_list)
-gen.display()
+gen.collage()

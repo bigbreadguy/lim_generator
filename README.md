@@ -20,7 +20,7 @@
  **type** defines display styles, collage option is recommended.</br>
  **change** defines whether color-changing is allowed or not.</br>
  
- **Example(type : collage)**
+ **Example(type : collage)**</br>
  ![fig](https://user-images.githubusercontent.com/50568142/93615296-2ece9c80-fa0e-11ea-9a4d-e957e5a89d55.png)
  
  

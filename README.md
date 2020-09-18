@@ -1,8 +1,7 @@
 # Hayoung Lim Generator
  A simple implementation of procedual hayounglim generator.</br>
  Get your own [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol) style of masterpiece!</br>
- ![hayoung](https://user-images.githubusercontent.com/50568142/93615569-8967f880-fa0e-11ea-8ab2-88f7792007db.jpg)
-
+ <img src="https://user-images.githubusercontent.com/50568142/93615569-8967f880-fa0e-11ea-8ab2-88f7792007db.jpg" width="50%"></img>
 # Installation
  **Clone the repository**
  ```

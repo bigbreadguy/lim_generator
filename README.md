@@ -1,2 +1,2 @@
-# lim_generator
- procedual_hayounglim_generator
+# Hayoung Lim Generator
+ A simple implementation of procedual hayounglim generator. </br>

@@ -40,6 +40,8 @@ class LimGenerator():
                 ax.imshow(layer)
             ax.axis("off")
         
-        plt.title("Hayoung Lim", y=-0.05)
+        plt.title("Hayoung Lim", 
+          position=(0.5, 1.0+0.05), 
+          fontsize=15)
         plt.axis("off")
         plt.show()
